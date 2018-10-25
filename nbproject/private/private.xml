@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/david/Documents/Canal/web/ComponenteLogin.jsp</file>
+            <file>file:/home/david/Documents/Canal/src/java/Conexiones/ServiceLocator.java</file>
+            <file>file:/home/david/Documents/Canal/src/java/Negocio/Persona.java</file>
+            <file>file:/home/david/Documents/Canal/src/java/Datos/DAOUser.java</file>
+            <file>file:/home/david/Documents/Canal/web/ComponenteRegistroBuque.jsp</file>
+            <file>file:/home/david/Documents/Canal/src/java/Negocio/Buque.java</file>
+            <file>file:/home/david/Documents/Canal/src/java/Negocio/Solicitante.java</file>
+            <file>file:/home/david/Documents/Canal/web/JS/principal.js</file>
+            <file>file:/home/david/Documents/Canal/src/java/Servlets/Servlet_signup.java</file>
+            <file>file:/home/david/Documents/Canal/web/ComponenteRegistro.jsp</file>
+            <file>file:/home/david/Documents/Canal/web/ComponentePrincipal.jsp</file>
+            <file>file:/home/david/Documents/Canal/src/java/Servlets/Servlet_InicioSesion.java</file>
+            <file>file:/home/david/Documents/Canal/src/java/Negocio/User.java</file>
+            <file>file:/home/david/Documents/Canal/src/java/Servlets/Servlet_Salir.java</file>
+            <file>file:/home/david/Documents/Canal/src/java/Servlets/Servlet_registro.java</file>
+            <file>file:/home/david/Documents/Canal/src/java/Negocio/GestionUsuarios.java</file>
+        </group>
+    </open-files>
+</project-private>

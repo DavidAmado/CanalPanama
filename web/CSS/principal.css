@@ -1,0 +1,136 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 25-sep-2018, 21:41:14
+    Author     : kusan
+*/
+
+
+
+body{
+    background-color: #d9edf7;
+}
+ 
+img{
+   margin: 2px 17%;
+   border: 3px solid black;
+}
+
+.modal-dialog{
+    background-color: white;
+    border-radius: 4px;
+    margin: 50px auto;
+    width: 500px;
+    box-shadow: 0px 2px 10px black;
+    width: 700px;
+    height: auto;
+}
+
+.div_one{
+    background-color: #f5f5f5;
+    padding-top: 1%;
+    left: 2%;
+    border: 3px solid black;
+    padding-bottom: 1%;
+}
+
+.div_two{
+    background-color: #f5f5f5;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    margin-top: 10px;
+    left: 2%;
+    border: 3px solid black;  
+}
+
+.div_tree{
+    background-color: #f5f5f5;
+    margin-top: 10px;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    border: 3px solid black;
+    left: 2%;
+}
+
+.div_five{
+    background-color: #f5f5f5;
+    border: 3px solid black;
+    margin-top: 10px;
+    left: 2%;
+}
+
+.div_six{
+    position: absolute;
+    top: 23%;
+    left: 73%;
+}
+
+#div_logo{
+    position: absolute;
+    left: 70%;
+}
+
+.row{
+    margin-left: 1em;
+    margin-right: 1em;
+}
+
+.panel{
+   padding-top: 1em;
+   border: 3px solid #ccccff;
+   margin-right: 1%;
+}
+
+.material-switch > input[type="checkbox"] {
+    display: none;   
+}
+
+.material-switch > label {
+    cursor: pointer;
+    height: 0px;
+    position: relative; 
+    width: 40px;  
+}
+
+.material-switch > label::before {
+    background: rgb(0, 0, 0);
+    box-shadow: inset 0px 0px 10px rgba(0, 0, 0, 0.5);
+    border-radius: 8px;
+    content: '';
+    height: 16px;
+    margin-top: -8px;
+    position:absolute;
+    opacity: 0.3;
+    transition: all 0.4s ease-in-out;
+    width: 40px;
+}
+
+.material-switch > label::after {
+    background: rgb(255, 255, 255);
+    border-radius: 16px;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);
+    content: '';
+    height: 24px;
+    left: -4px;
+    margin-top: -8px;
+    position: absolute;
+    top: -4px;
+    transition: all 0.3s ease-in-out;
+    width: 24px;
+}
+.material-switch > input[type="checkbox"]:checked + label::before {
+    background: inherit;
+    opacity: 0.5;
+}
+.material-switch > input[type="checkbox"]:checked + label::after {
+    background: inherit;
+    left: 20px;
+}
+
+#div_logor{
+    position: absolute;
+    left: 64%;
+}
